@@ -21,21 +21,3 @@ dotnet watch run
 |GET| /api/games/{id}| Получить игру по id| 200 / 404|
 |POST| /api/games|Добавить игру| 201|
 |DELETE|/api/games/{id}| Удалить игру|204 / 404|
-
-### Технологии
-
-HTML5
-CSS3 (Flexbox, Grid, Media Queries)
-Git/GitHub
-
-### Скриншоты
-
-![главная](img\screenshots\screenshot-index.png)
-![каталог](img\screenshots\screenshot-catalog.png)
-![о_нас](img\screenshots\screenshot-about.png)
-
-
-### Скриншоты - mobile/tablets
-
-![мобильная](img\screenshots\screenshot-tablet.png)
-![планшетная](img\screenshots\screenshot-mobile.png)
